@@ -4,6 +4,6 @@
 
 ### Select from the list of characters provided on the site while avoiding duplicate selections as the order continues to randomize.
 
-#### This site was built with React. Check it out [here](https://github.com/jrotte/SiliconValley).
+#### This site was built with React. Check it out [here](https://github.com/jrotte/SiliconMemory).
 
 ![screenshot](public/screenshot.png)
