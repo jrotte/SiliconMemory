@@ -1,0 +1,11 @@
+{
+  "name": "siliconvalley",
+  "version": "1.0.0",
+  "description": "## See how much you can memorize your favorite characters from the HBO hit comedy *Silicon Valley*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
