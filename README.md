@@ -7,3 +7,5 @@
 #### This site was built with React. Check it out [here](https://github.com/jrotte/SiliconMemory).
 
 ![screenshot](public/screenshot.png)
+
+##### Enjoy!
